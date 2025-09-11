@@ -1,5 +1,5 @@
 ##  Note
-- This project was done for fun and learning purposes only.  
+- **This project was done for fun and learning purposes only**.  
 - **Version Control System (VCS) was not used during development**.  
   I only created this repository afterwards and uploaded the completed project files.
 ---
