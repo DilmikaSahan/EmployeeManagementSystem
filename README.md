@@ -21,9 +21,11 @@ The main purpose of this project was to **learn API development and data handlin
 
 ##  Features
 - Add new employees  
-- Get list of employees  
+- Get list of employees
+- Get individual employee details
 - Update employee details  
-- Delete employees  
+- Delete employees
+- Search employees
 
 ---
 
